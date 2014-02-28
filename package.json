@@ -1,0 +1,15 @@
+{
+  "name": "outdoor-theme",
+  "main": "./lib/outdoor-theme",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Change syntax theme based on your macs ambiant light sensor",
+  "repository": "https://github.com/mattapperson/outdoor-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "lightlevel": "~1.0.1"
+  }
+}
